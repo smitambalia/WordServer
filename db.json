@@ -1,0 +1,16 @@
+{
+    "word" : [
+        {
+            "wordValue" : "Apple",
+            "wordHint" : "A fruit"
+        },
+        {
+            "wordValue" : "BANANA",
+            "wordHint" : "A fruit"
+        },
+        {
+            "wordValue" : "INDIA",
+            "wordHint" : "The best country"
+        }
+    ]
+}
